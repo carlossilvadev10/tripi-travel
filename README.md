@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧳 TRIPI TRAVEL ✈️
 
-## Getting Started
+[![TRIPI TRAVEL](./public/imagen-preview.png)](https://tripi-travel.netlify.app/)
 
-First, run the development server:
+Bienvenido a **Tripi Travel**, tu plataforma ideal para encontrar alojamientos al mejor precio, con una experiencia moderna, rápida y centrada en tu comodidad. Nos especializamos en hacer que tus viajes comiencen desde el primer clic, conectándote con espacios acogedores y un servicio personalizado las 24 horas. Accede desde cualquier dispositivo y prepárate para descubrir una forma más inteligente y cómoda de viajar. ¡Explora, reserva y viaja con confianza gracias a Tripi Travel!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 **Características Principales**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 💻 **Amplio catálogo de alojamientos**, con opciones recientes, populares y altamente calificadas.
+- 🎨 **Estética limpia y amigable**, diseñada para que navegar y encontrar tu destino ideal sea intuitivo.
+- 📱 **Adaptabilidad total**, la interfaz se ajusta perfectamente a móviles, tablets y computadoras.
+- ✨ **Efectos visuales sutiles y agradables**, que mejoran la interacción sin distraer al usuario.
+- 🗺️ **Vista previa de cada alojamiento con imágenes destacadas**, que te ayudan a elegir mejor tu próximo viaje.
+- 🚀 **Carga veloz y optimización SEO**, aprovechando el poder de Next.js para mejorar visibilidad y experiencia.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ❓ ¿Por qué se llama Tripi Travel?
 
-To learn more about Next.js, take a look at the following resources:
+El nombre **Tripi Travel** nace de la idea de hacer tus **viajes más fáciles, accesibles y placenteros**. "Tripi" transmite familiaridad y cercanía, como si viajar fuera tan simple como una conversación entre amigos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Queremos que cada reserva y cada destino signifiquen algo especial. Por eso, **Tripi Travel no solo te conecta con lugares, sino con experiencias únicas** pensadas para tu bienestar.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Tecnologías Utilizadas 👨‍💻
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| HTML | CSS | JavaScript | React | TypeScript | Tailwind CSS | Next.js | Node.js | ESLint |
+|------|-----|------------|--------|-------------|---------------|--------|---------|--------|
+| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![TailwindCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg) | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | ![ESLint](https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg) |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🚀 Instalación y Uso Local
+
+Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
+
+1. **Clona el repositorio:**
+
+   ```bash
+   git clone https://github.com/carlozzsilva10/tripi-travel.git
+   ```
+
+2. **Entra en el directorio del proyecto:**
+
+   ```bash
+   cd event-horizont
+   ```
+
+3. **Instala las dependencias necesarias:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Ejecuta la aplicación en entorno de desarrollo:**
+
+   ```bash
+   npm run dev
+   ```
+
+5. **Abre tu navegador y visita:**
+
+   ```bash
+   http://localhost:3000
+   ```
+
+---
+
+## 📩 Contacto
+
+Si tienes alguna pregunta o sugerencia, puedes encontrarme en:
+
+- 🌐 [Mi GitHub](https://github.com/carlozzsilva10)
+- 📧 Email: [carlozzsilva10@gmail.com](mailto:carlozzsilva10@gmail.com)
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/carlos-eduardo-silva-bustamante-b6084528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+¡Gracias por visitar **EVENT HORIZONT** y ser parte de esta experiencia!
