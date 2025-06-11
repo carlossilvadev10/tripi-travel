@@ -1,6 +1,6 @@
 # 🧳 TRIPI TRAVEL ✈️
 
-[![TRIPI TRAVEL](./public/imagen-preview.png)](https://tripi-travel.netlify.app/)
+[![TRIPI TRAVEL](./public/imagen-preview.png)](https://tripi-travel-web.netlify.app/)
 
 Bienvenido a **Tripi Travel**, tu plataforma ideal para encontrar alojamientos al mejor precio, con una experiencia moderna, rápida y centrada en tu comodidad. Nos especializamos en hacer que tus viajes comiencen desde el primer clic, conectándote con espacios acogedores y un servicio personalizado las 24 horas. Accede desde cualquier dispositivo y prepárate para descubrir una forma más inteligente y cómoda de viajar. ¡Explora, reserva y viaja con confianza gracias a Tripi Travel!
 
