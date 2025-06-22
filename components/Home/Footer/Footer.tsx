@@ -26,7 +26,7 @@ const Footer = () => {
             {/* Bottom section */}
             <div className = "mt-8 w-[80%] mx-auto border-t pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm">
                 <p className = "text-center md:text-left">
-                    Copyright © 2025 <a href = "https://github.com/carlozzsilva10" target = "_blank" rel = "noopener noreferrer" className = "font-semibold">carlozzsilva10</a>. Todos los derechos reservados
+                    Copyright © 2025 <a href = "https://github.com/carlozzsilva10" target = "_blank" rel = "noopener noreferrer" className = "font-semibold">carlozzsilva10</a>. Todos los derechos reservados.
                 </p>
                 <div className = "flex items-center space-x-4 mt-4 md:mt-0">
                     <span>Redes sociales:</span>
