@@ -12,7 +12,7 @@ const MobileNav = ({ closeNav, showNav }: Props) => {
     const navOpen = showNav ? "translate-x-0" : "translate-x-[-100%]";
 
     return (
-        <div>
+        <div className = "xl:hidden">
             {/* Overlay */}
             <div className = {`fixed ${ navOpen } inset-0 transform transition-all duration-500 z-[1002] bg-black opacity-70 w-full h-screen`}></div>
             {/* NavLinks */}
