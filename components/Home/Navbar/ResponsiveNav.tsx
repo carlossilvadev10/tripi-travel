@@ -10,10 +10,10 @@ const ResponsiveNav = () => {
     const handleCloseNav = () => setShowNav(false);
 
     return (
-        <div>
+        <>
             <Nav openNav = { handNavShow } />
             <MobileNav showNav = { showNav } closeNav = { handleCloseNav } />
-        </div>
+        </>
     )
 }
 

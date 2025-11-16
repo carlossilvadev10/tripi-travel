@@ -13,6 +13,9 @@ const poppinsSans = Poppins({
 export const metadata: Metadata = {
   title: "Tripi | Agencia de viajes",
   description: "Travel landing page using NextJS 15",
+  other: {
+    "color-scheme": "light",
+  },
 };
 
 export default function RootLayout({
